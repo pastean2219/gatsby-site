@@ -4,7 +4,7 @@ import "./index.css"
 export default function Home() {
   return (
     <div className="hello">
-      <div>Hello world!</div>
+      <div>Hello world!00000000000000</div>
       <div>Hello world!!</div>
       <div>Hello world???//</div>
     </div>
